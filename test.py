@@ -3,3 +3,5 @@ def test(nothing):
 
 def dupa(kasf):
     pass
+
+afasdf
